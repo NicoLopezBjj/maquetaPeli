@@ -19,6 +19,10 @@ header, .estrenos, .news{
     background-color:aliceblue;
 }
 
+.hero-movie{
+    min-height: 100vh;
+}
+
 /* CSS NICO */
 .sacarEnlace{
     text-decoration: none;
@@ -31,4 +35,9 @@ header, .estrenos, .news{
 
 .maxIcon{
     font-size: x-large;
+}
+
+.btnFlecha{
+    border: none;
+    color: white;
 }
